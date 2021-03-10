@@ -1,0 +1,31 @@
+
+#header{
+    background-color: azure;
+    text-align: center;
+}
+
+#img{
+    background-image: url("map.jpg");
+    height: 500px;
+    
+}
+
+#icon-1{
+    position: relative;
+    left: 459px;
+    top: 266px
+}
+
+#icon-2{
+    position: relative;
+    left: 488px;
+    top: 184px;
+    
+}
+
+#icon-3{
+    position: relative;
+    left: 618px;
+    top: 251px;
+    
+}
